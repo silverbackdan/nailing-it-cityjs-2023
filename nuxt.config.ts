@@ -1,4 +1,4 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/devtools', '@nuxtjs/supabase'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/devtools', '@nuxtjs/supabase', '@nuxtjs/html-validator'],
 })
